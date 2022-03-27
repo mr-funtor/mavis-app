@@ -28,5 +28,8 @@ main{
 
 .random-letters>h1,
 .typed-letters>h1{
-    
+    /* background:white; */
+	width:20%;
+	/* margin-right:20px; */
+	text-align:center;
 }
