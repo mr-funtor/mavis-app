@@ -34,4 +34,6 @@ main{
 	text-align:center;
 }
 
-.success{}
+.success{
+    color:green;
+}
