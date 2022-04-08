@@ -6,3 +6,4 @@ document.addEventListener('keydown',typingWord);
 const allLetters="abcdefghijklmnopqrstuvwxyz".split("");
 
 let generatedLetters=[];
+let presentLetter="y";
