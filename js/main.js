@@ -8,3 +8,8 @@ const allLetters="abcdefghijklmnopqrstuvwxyz".split("");
 let generatedLetters=[];
 let presentLetter="y";
 let presentIndex=0;
+
+function generateRandomLetters(){
+	
+	
+}
