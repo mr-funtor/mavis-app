@@ -10,6 +10,8 @@ let presentLetter="y";
 let presentIndex=0;
 
 function generateRandomLetters(){
-	
+	for(let i=0;i<5;i++){
+		
+	}
 	
 }
