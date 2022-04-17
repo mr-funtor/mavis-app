@@ -13,7 +13,8 @@ function generateRandomLetters(){
 	for(let i=0;i<5;i++){
 		let randomIndex=Math.floor(Math.random()*allLetters.length);
 		generatedLetters.push(allLetters[randomIndex]);
-		
+		//display generated letter on screen;
+		randomLetters.innerHTML+=`<h1>${allLetters[randomIndex]}</h1>`;
 	}
 	
 }
