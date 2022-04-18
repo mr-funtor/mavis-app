@@ -16,5 +16,9 @@ function generateRandomLetters(){
 		//display generated letter on screen;
 		randomLetters.innerHTML+=`<h1>${allLetters[randomIndex]}</h1>`;
 	}
+    
+    
+    presentLetter=generatedLetters[presentIndex];//makes the first letter of the array the first letter the player is to type
+	
 	
 }
