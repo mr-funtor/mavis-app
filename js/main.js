@@ -19,6 +19,6 @@ function generateRandomLetters(){
     
     
     presentLetter=generatedLetters[presentIndex];//makes the first letter of the array the first letter the player is to type
-	
+	console.log(presentLetter,generatedLetters);
 	
 }
