@@ -22,3 +22,5 @@ function generateRandomLetters(){
 	console.log(presentLetter,generatedLetters);
 	
 }
+
+generateRandomLetters();
