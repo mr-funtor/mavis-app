@@ -24,3 +24,7 @@ function generateRandomLetters(){
 }
 
 generateRandomLetters();
+
+function typingWord(e){
+	
+};
