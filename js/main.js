@@ -26,5 +26,5 @@ function generateRandomLetters(){
 generateRandomLetters();
 
 function typingWord(e){
-	
+	if(presentIndex>=5)return;
 };
