@@ -27,4 +27,9 @@ generateRandomLetters();
 
 function typingWord(e){
 	if(presentIndex>=5)return;
+    
+    allLetters.forEach((letter)=>{
+		
+		
+	})
 };
