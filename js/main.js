@@ -30,6 +30,11 @@ function typingWord(e){
     
     allLetters.forEach((letter)=>{
 		if(e.key!==letter)return;
+        
+        if(e.key===presentLetter){//if the player types write letter
+			
+			
+		}
 		
 	})
 };
