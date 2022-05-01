@@ -33,6 +33,7 @@ function typingWord(e){
         
         if(e.key===presentLetter){//if the player types write letter
 			confirmIfRight(e.key, "success");
+            pickNextLetter();
 			
 		}
 		
