@@ -36,6 +36,7 @@ function typingWord(e){
             pickNextLetter();
 			
 		}else{//if the player types wrong letter
+			confirmIfRight(e.key, "failed");
 			
 		}
 		
