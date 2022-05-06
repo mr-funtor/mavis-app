@@ -25,6 +25,7 @@ function generateRandomLetters(){
 
 generateRandomLetters();
 
+//CONTROLS ACTION WHEN THE PLAYER TYPES 
 function typingWord(e){
 	if(presentIndex>=5)return;
     
