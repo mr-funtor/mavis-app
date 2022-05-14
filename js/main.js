@@ -47,4 +47,5 @@ function typingWord(e){
 //PICKS THE NEXT EXPECTED LETTER AFTER THE PLAYER HAS TYPED
 function pickNextLetter(){
 	presentIndex++;
+    console.log(presentIndex);
 }
