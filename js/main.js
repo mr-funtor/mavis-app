@@ -48,4 +48,5 @@ function typingWord(e){
 function pickNextLetter(){
 	presentIndex++;
     console.log(presentIndex);
+    presentLetter=generatedLetters[presentIndex];
 }
