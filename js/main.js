@@ -49,4 +49,5 @@ function pickNextLetter(){
 	presentIndex++;
     console.log(presentIndex);
     presentLetter=generatedLetters[presentIndex];
+    console.log(presentLetter);
 }
