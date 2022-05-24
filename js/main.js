@@ -51,3 +51,5 @@ function pickNextLetter(){
     presentLetter=generatedLetters[presentIndex];
     console.log(presentLetter);
 }
+
+//DISPLAYS THE TYPED LETTER ON SCREEN
